@@ -1,0 +1,12 @@
+﻿# Default deny: only approved documentation may enter Git.
+/*
+
+!/README.md
+!/INSTALL.md
+!/FAQ.md
+!/CHANGELOG.md
+!/PRIVACY.md
+!/.gitignore
+
+# APK files must be uploaded as GitHub Release assets.
+# Never commit source code, credentials or signing keys.
