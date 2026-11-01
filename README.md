@@ -2,13 +2,38 @@
 
 **Live typing. No send button. Just two people.**
 
-**Latest version / Ultima versione: 1.0.0-beta.2 (versionCode 2)** — Android 7.0+ (API 24)
+## Download Android & iPhone
+
+**Android - Public Beta 2**
+
+[Download Android APK](https://github.com/manicons/LiveRoom-Beta/releases/tag/v1.0.0-beta.2)
+
+Android 7.0+ (API 24). Signed APK.
+
+**iPhone - Experimental iOS Beta**
+
+[Download iPhone IPA](https://github.com/manicons/LiveRoom-Beta/releases/download/v1.0.0-beta.2/LiveRoom-iOS-Release-unsigned.ipa)
+
+**iPhone installation guides / Guide installazione iPhone**
+
+- [Italiano - Guida PDF](https://github.com/manicons/LiveRoom-Beta/releases/download/v1.0.0-beta.2/LiveRoom_Guida_iPhone_IT_aggiornata.pdf)
+- [English - PDF Guide](https://github.com/manicons/LiveRoom-Beta/releases/download/v1.0.0-beta.2/LiveRoom_iPhone_Installation_Guide_EN_updated.pdf)
+
+**EN:** The iOS IPA is unsigned and requires signing before installation. LiveContainer has been tested successfully on iPhone. SideStore instructions are included but have not yet been verified with this IPA.
+
+**IT:** L'IPA iOS non e firmata e richiede una procedura di firma prima dell'installazione. LiveContainer e stato testato con successo su iPhone. La procedura SideStore e documentata ma non ancora verificata con questa IPA.
+
+Both platforms are free during public beta. Ages 16+.
+
+---
+
+**Android:** 1.0.0-beta.2 (versionCode 2) - Android 7.0+ | **iOS:** Experimental unsigned IPA (build 2)
 
 ---
 
 ## 🇬🇧 English
 
-LiveRoom is an Android app that lets two people share text in real time,
+LiveRoom is available for Android and iPhone (experimental iOS beta). It lets two people share text in real time,
 while they type. There is no Send button.
 
 ### Features
@@ -77,7 +102,7 @@ uninstalling.
 
 ## 🇮🇹 Italiano
 
-LiveRoom è un'app Android che permette a due persone di condividere testo
+LiveRoom è disponibile su Android e iPhone (beta iOS sperimentale) e permette a due persone di condividere testo
 in tempo reale, mentre scrivono. Non c'è il pulsante Invia.
 
 ### Funzionalità
